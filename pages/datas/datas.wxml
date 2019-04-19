@@ -1,0 +1,5 @@
+<swiper indicator-dots="{{true}}" autoplay="{{true}}" circular="{{true}}">
+  <swiper-item wx:for="{{info.images}}" wx:key="item">  
+    <image bindtap="showFn" data-current="{{item}}" src="{{item}}" mode="aspectFill"/>
+  </swiper-item>
+</swiper>

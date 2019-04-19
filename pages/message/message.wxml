@@ -1,0 +1,4 @@
+<!--pages/message/message.wxml-->
+<page>
+  <text>消息</text>
+</page>

@@ -1,0 +1,4 @@
+<!--pages/profile/profile.wxml-->
+<page>
+  <text>我的</text>
+</page>
